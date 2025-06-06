@@ -4,7 +4,7 @@ This is a simple project to test automatic Jenkins builds triggered by GitHub pu
 
 ## Files
 - `Jenkinsfile`: Defines a simple CI pipeline.
-- `app.sh`: Simulated build script that prints a message.
+- `app.sh`: Simulated build script that prints a message
 
 ## Setup
 1. Create a Jenkins Pipeline job.
